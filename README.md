@@ -26,4 +26,4 @@ Here you can find some of the projects I have built. Hope you find them interest
 
 <hr>
 
-###### Illustration by <a href="https://icons8.com/illustrations/author/5dd5075701d03600114d621f">Bogdan Magenta</a> from <a href="https://icons8.com/illustrations">Ouch!</a>
+###### Illustration by <a target="_blank" href="https://icons8.com/illustrations/author/5dd5075701d03600114d621f">Bogdan Magenta</a> from <a target="_blank" href="https://icons8.com/illustrations">Ouch!</a>
