@@ -1,7 +1,7 @@
 # <strong>Keyboard > Pen</strong>
 
 <p>
-<img src="img/logo.png" alt="" width="400px" align="right"/>
+<img src="img/logo.png" alt="" align="right"/>
 </p>
 
 ## 👽 Greetings Fellow Developer!
