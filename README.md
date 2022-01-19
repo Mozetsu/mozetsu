@@ -4,7 +4,7 @@
 <img src="img/image.png" alt="" width="400px" align="right"/>
 </p>
 
-## 👽 Greetings Fellow Dev
+## 👽 Greetings Fellow Developer!
 
 Building tech is <strong>awesome</strong> but sometimes I like to have a break to appreciate nature and take a breath of fresh-air to clear my mind.
 
