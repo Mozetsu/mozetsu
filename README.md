@@ -6,9 +6,7 @@
 
 ## 👽 Greetings Fellow Developer!
 
-Building tech is <strong>awesome</strong> and possibilites are endless!
-
-Love going on walks in the countryside to appreciate nature and clear my mind.
+Building tech is awesome and possibilites are endless! Absolute sci-fi lover and coding brings that joy to my life. Finding the balance between life and work can be hard and that's why I enjoy going on walks in the countryside to appreciate nature and clear my mind from time to time.
 
 <br>
 
