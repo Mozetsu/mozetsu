@@ -6,11 +6,13 @@
 
 ## 👽 Greetings Fellow Developer!
 
-Building tech is <strong>awesome</strong> but sometimes I like to have a break to appreciate nature and take a breath of fresh-air to clear my mind.
+Building tech is <strong>awesome</strong> and possibilites are endless!
+
+Love going on walks in the countryside to appreciate nature and clear my mind.
 
 <br>
 
-<i>"Perfectly balanced, as all things should be."</i> - <strong>Some alien out there</strong>
+<i>"Perfectly balanced, as all things should be."</i> - <strong>An alien out there</strong>
 
 <br>
 
