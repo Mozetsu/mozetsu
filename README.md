@@ -6,7 +6,7 @@
 
 ## 👽 Greetings Fellow Developer!
 
-Building tech is awesome and possibilites are endless, there's so much to be created! However, the world has plenty of beauty out there and that's why I enjoy going on walks in the countryside to appreciate nature and clear my mind from time to time.
+Building tech is awesome and possibilites are endless, there's so much to be created! Nature can be fascinating as well and that's why I enjoy going on walks in the countryside from time to time to clear my mind.
 
 <br>
 
