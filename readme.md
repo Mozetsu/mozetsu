@@ -22,8 +22,7 @@ Keeping up with the industry is a must and that's why I always try to keep:
 
 <br>
 
-Here you can find some of the projects I have built. Hope you find them interesting.
-
+Here you can find some of the projects I have built.
 <hr>
 
 ###### Illustration by <a href="https://icons8.com/illustrations/author/5dd5075701d03600114d621f">Bogdan Magenta</a> from <a href="https://icons8.com/illustrations">Ouch!</a>
