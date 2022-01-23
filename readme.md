@@ -14,7 +14,7 @@ Building tech is awesome and possibilites are endless, there's so much to be cre
 
 <br>
 
-Keeping up with the industry is a must and that's why I always try to keep:
+## Keeping up with the industry is a must and that's why I always try to keep:
 
 - 📖 Learning (Building the fundamentals).
 - 🔍 Exploring (Leaving the comfort zone).
@@ -22,7 +22,7 @@ Keeping up with the industry is a must and that's why I always try to keep:
 
 <br>
 
-Tech I use:
+## Tech I use:
 
 <p>
 <img style="margin-right: 10px" src="svg/javascript.svg" alt="" width="27px" />
