@@ -1,33 +1,31 @@
-# Keyboard > Pen
+## Lucas "Mozetsu" Almeida
 
-<p>
-<img src="img/image.png" alt="" width="400px" align="right"/>
-</p>
+[![Twitter Badge](https://img.shields.io/badge/Mozetsu-cc6595?style=flat-square&labelColor=e77aacc6595d&logo=twitter&logoColor=white&link=https://twitter.com/mozetsu)](https://twitter.com/mozetsu)
+[![LinkedIn Badge](https://img.shields.io/badge/Mozetsu-cc6595?style=flat-square&labelColor=e77aacc6595d&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mozetsu)](https://www.linkedin.com/in/mozetsu/)
 
-## 👽 Greetings Fellow Developers!
+<br/>
 
-🚀 Building tech is awesome and possibilites are endless, there's so much to be created!
+🔥 Building tech is awesome! There's so much to be created, and possibilites are endless!
 
-🌱 Nature can be fascinating as well, and that's why I enjoy going on walks in the countryside from time to time to clear my mind.
+<br/>
 
-_"Perfectly balanced, as all things should be."_ - **An alien out there**
+🎯 Current objectives:
 
-Keeping up with the industry is a must and that's why I always try to keep
+- Master the basics of React.
+- Dive deeper into Docker.
+- Learn more about JWT authentication.
 
-- 📖 Learning (Building the fundamentals).
-- 🔍 Exploring (Leaving the comfort zone).
-- 👻 Doing something (Something is better than nothing).
+<br/>
 
-## 📦 Tech I use
+📖 Studying:
 
-<p>
-<img src="svg/javascript.svg" alt="" width="27px" />
-<img src="svg/react.svg" alt="" width="29px" />
-<img src="svg/nodejs.svg" alt="" width="24px" />
-<img src="svg/tailwindcss.svg" alt="" width="37px" />
-<img src="svg/docker.svg" alt="" width="36px" />
-</p>
+- React
+- Responsive UI
 
-<hr>
+<br/>
 
-###### Illustration by <a href="https://icons8.com/illustrations/author/5dd5075701d03600114d621f">Bogdan Magenta</a> from <a href="https://icons8.com/illustrations">Ouch!</a>
+🏆 Hard-earned Titles:
+
+- 💀 Spotify Warlord
+- 🔍 Countryside Explorer
+- 👌 Good-vibes Appreciator
