@@ -7,17 +7,19 @@
 
 🎯 Current objectives:
 
-- Master the basics of React.
-- Dive deeper into Docker.
+- Get proficient in React.
+- Understand the basics of Typescript.
 - Learn more about JWT authentication.
 
 📖 Studying:
 
 - React
 - Responsive UI
+- Typescript
 
 🏆 Hard-earned Titles:
 
 - 💀 Spotify Warlord
 - 🔍 Countryside Explorer
 - 👌 Good-vibes Appreciator
+- 📘 Eternal Student
