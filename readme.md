@@ -17,7 +17,7 @@
 - Responsive UI
 - Typescript
 
-🏆 Hard-earned Titles:
+🏆 Hard-earned titles:
 
 - 💀 Spotify Warlord
 - 🔍 Countryside Explorer
