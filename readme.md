@@ -4,8 +4,7 @@
 
 🎯 Current objectives:
 
-- Get proficient in React.
-- Understand the basics of Typescript.
+- Dive deeper into Typescript.
 - Learn more about JWT authentication.
 
 📖 Studying:
