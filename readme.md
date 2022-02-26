@@ -10,5 +10,4 @@
 📖 Studying:
 
 - React
-- Responsive UI
 - Typescript
