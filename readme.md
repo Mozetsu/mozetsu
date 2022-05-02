@@ -1,4 +1,4 @@
-# Lucas "Mozetsu" Almeida
+# Lucas Almeida
 
 Committed frontend developer passionate about the web industry. Studied computer programming in high school,
 alongside frontend development as a hobby after getting in touch with the JavaScript ecosystem. Built several
