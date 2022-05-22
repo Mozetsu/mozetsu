@@ -1,10 +1,6 @@
 # Lucas Almeida
 
-Committed frontend developer passionate about the web industry. Studied computer programming in high school,
-alongside frontend development as a hobby after getting in touch with the JavaScript ecosystem. Built several
-personal projects which helped me gain hands-on experience developing web applications. Eager to learn new
-technology as I'm always trying to expand my skillset beyond required, and improve - both as a person, and as a
-professional.
+Committed frontend developer passionate about the web industry. Studied computer programming in high school, alongside frontend development as a hobby after getting in touch with the JavaScript ecosystem. Eager to learn as I'm always trying to improve - both as a person, and as a professional.
 
 Let's connect: 
 
