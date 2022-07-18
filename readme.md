@@ -1,6 +1,6 @@
 # Lucas Almeida
 
-Committed frontend developer passionate about the web industry. Eager to learn as I'm always trying to improve - both as a person, and as a professional. When I'm not coding I tend to enjoy a good Spotify playlist and, sometimes, love watching the sunset by the beach.
+Frontend developer passionate about the web industry. Eager to learn as I'm always trying to improve. When I'm not coding I tend to enjoy a good Spotify playlist and, sometimes, love watching the sunset by the beach.
 
 Let's connect: 
 
